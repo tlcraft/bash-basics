@@ -2,6 +2,8 @@
 
 This repo holds a simple bash script with a few basic commands that developers new to shell scripts may find useful.
 
+To run a script from the terminal use the `sh` command. For example, `sh hello.sh` will print out `Hello World!` when run from this directory.
+
 ## Bash
 Bash is a shell for the GNU project. The name is a shortening of Bourne Again Shell. It was a replacement for the original Bourne shell for Unix. Shell programs are the outer most layer of an operating system. These allow people to interact with computers via a command-line interface. Some people refer to shell scripts colloquially as bash scripts.
 
