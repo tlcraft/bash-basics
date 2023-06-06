@@ -1,0 +1,7 @@
+# switch to previous git branch
+- () {
+    git checkout -
+}
+
+# set environment variable
+ENV=dev
