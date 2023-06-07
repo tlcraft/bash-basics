@@ -30,4 +30,4 @@ The `.bash_profile` file is typically used for setting environment variables. Va
 - [Difference between sh and Bash](https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash)
 - [(#!/bin/bash ) What exactly is this?](https://medium.com/@codingmaths/bin-bash-what-exactly-is-this-95fc8db817bf)
 - [30 Bash Examples](https://linuxhint.com/30_bash_script_examples/)
--[Whats the Difference Between a Login and a Non-Login Shell?](https://relentlesscoding.com/posts/whats-the-difference-between-a-login-and-a-nonlogin-shell/)
+- [Whats the Difference Between a Login and a Non-Login Shell?](https://relentlesscoding.com/posts/whats-the-difference-between-a-login-and-a-nonlogin-shell/)
