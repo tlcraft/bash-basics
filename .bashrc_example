@@ -5,3 +5,6 @@
 
 # set environment variable
 ENV=dev
+
+# an alias example
+alias pull="git pull"
