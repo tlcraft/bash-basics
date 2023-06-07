@@ -7,7 +7,7 @@ To run a script from the terminal use the `bash` command. For example, `bash hel
 ## Bash
 Bash is a shell for the GNU project. The name is a shortening of Bourne Again Shell. It was a replacement for the original Bourne shell for Unix. Shell programs are the outer most layer of an operating system. These allow people to interact with computers via a command-line interface. Some people refer to shell scripts colloquially as bash scripts.
 
-## bashrc
+## Bash Read Command (bashrc)
 The `.bashrc` file is loaded when the user logs into their compueter. You can add functions and aliases for the system to load so that they are available to the operating system.
 
 After making changes you can reload the session using the command `source ~/.bashrc`
